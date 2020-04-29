@@ -1,0 +1,24 @@
+Step 1: Install GIT.
+			-- Check for the status of GIT. (git --version)
+			--If found you will get error message else you will get error.
+Step 2: Download and Installing GIT for Windows.
+		    -- https://git-scm.com/download/win
+			
+Step 3: Creating and adding the project folder to Git.
+		-- User Location : C:\Users\lella\Desktop\Certifcates\GIT_NOTES\MY_GIT_REPO
+		
+		
+Step 4: Type the command git init -- will add the .git folder or make the folder in which we are in as the root folder for the code.
+			-- git status -- will display the status.
+
+step 5 : Add a file and then check the status.
+	   : git commit -m "Message for your own"
+	   : git commit -m "My first Message".
+		
+Step 6 : Default id and email configurations for git 
+			git config --global user.email "you@example.com"
+			git config --global user.name "Your Name"
+			git config --global user.email "lella_rao@outlook.com"
+			git config --global user.email "lella_rao@outlook.com"
+			git config --global user.name "RaosGit"
+  
