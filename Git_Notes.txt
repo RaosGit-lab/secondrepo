@@ -21,4 +21,14 @@ Step 6 : Default id and email configurations for git
 			git config --global user.email "lella_rao@outlook.com"
 			git config --global user.email "lella_rao@outlook.com"
 			git config --global user.name "RaosGit"
+			
+Used commands till now:
+===========================
+
+git --version 													-- displays the version number;
+git status 														-- displays the status of the uncommied chages
+git add *.* (or wild characters)								-- displays the or adds the uncommied changes.
+git commit - m ".." 											-- commits pending changes.
+git config --global user.email "you@example.com"				-- add the user email id.
+git config --global user.name "Your Name"						-- adds the username.
   
