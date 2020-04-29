@@ -1,0 +1,11 @@
+Step 1: Install GIT.
+			-- Check for the status of GIT. (git --version)
+			--If found you will get error message else you will get error.
+Step 2: Download and Installing GIT for Windows.
+		    -- https://git-scm.com/download/win
+			
+Step 3: Creating and adding the project folder to Git.
+		-- User Location : C:\Users\lella\Desktop\Certifcates\GIT_NOTES\MY_GIT_REPO
+		
+Step 4: 
+		
